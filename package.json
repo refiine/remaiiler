@@ -1,6 +1,6 @@
 {
   "name": "remaiiler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Easily send emails from localhost via Gmail",
   "main": "index.js",
   "scripts": {
