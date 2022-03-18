@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "send": "node index.js",
-    "release": "np"
+    "release": "np",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": {
